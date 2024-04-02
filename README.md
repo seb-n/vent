@@ -5,7 +5,7 @@
 - install [Appium](http://appium.io/docs/en/latest/quickstart/install/) with npm
 - install [uiautomator2 webdriver]([https://nodejs.org/en/download/current](http://appium.io/docs/en/latest/quickstart/uiauto2-driver/))
 - pip install [mitmproxy](https://mitmproxy.org/)
-- create a database of choice (I used psql)
+- create a database of choice with the provided schema (I used psql)
 - install Android [SDK](https://developer.android.com/studio) - either with android studio (recommended) or through command line
 ## emulator setup
 - using android studio, [create an emulator](https://developer.android.com/studio/run/emulator#avd) of choice,  I used API 28 for easier mitmproxy setup (with google_apis) -- or fend for yourself setting it up through the command line
